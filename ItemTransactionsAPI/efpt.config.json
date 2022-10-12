@@ -1,0 +1,61 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "AppDbContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "ItemTransactionsAPI",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[Balance]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Category]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Item]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ItemTransactions]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Unit]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[Warhouse]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "OMARMOHAMED.ItemTransactions",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
